@@ -1,2 +1,2 @@
-# Peak-find-for-DCS
+# DCS analyzer
 find peak information for DCS measurement
